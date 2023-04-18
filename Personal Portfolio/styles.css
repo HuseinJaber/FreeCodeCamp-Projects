@@ -373,6 +373,7 @@ footer .brand > p {
     .project-container {
         grid-auto-rows: 275px;
     }
+    
 }
 
 @media (hover: none) {
