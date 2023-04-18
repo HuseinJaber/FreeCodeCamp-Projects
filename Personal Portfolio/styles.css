@@ -290,6 +290,9 @@ footer .brand > p {
     letter-spacing: 0.3em;
 }
 
+#hov:hover{
+    transform: translateY(8px);
+}
 /* Media queries desktop first */
 
 /* Desktop 1800px */
